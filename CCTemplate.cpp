@@ -28,7 +28,7 @@ typedef vector<int> vi;
 
 void solve()
 {
-    
+    // write your code here
 }
 
 int main()
