@@ -7,9 +7,7 @@ using namespace std;
 
 typedef long long ll;
 typedef vector<int> vi;
-
 #define nl cout << endl
-#define PI M_PI
 #define Yes printf("Yes\n")
 #define No printf("No\n")
 #define YES printf("YES\n")
