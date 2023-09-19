@@ -2,6 +2,10 @@
     "CC Template": {
         "prefix": "CCTemplate",
         "body": [
+            "/*",
+            "Mahbubur Rahman",
+            "United International University",
+            "*/",
             "#include <bits/stdc++.h>",
             "using namespace std;",
             "",
