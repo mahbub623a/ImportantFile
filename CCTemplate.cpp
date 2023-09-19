@@ -1,5 +1,5 @@
 /*
-    Name:Mahbubur Rahman
+    Mahbubur Rahman
     United International University
 */
 #include <bits/stdc++.h>
