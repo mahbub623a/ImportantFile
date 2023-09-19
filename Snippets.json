@@ -97,7 +97,7 @@
             "int n;",
             "cin >> n;",
             "vi v;",
-            "scanv(v, n);"
+            "scanV(v, n);"
         ],
         "description": "Scan Array"
     }
