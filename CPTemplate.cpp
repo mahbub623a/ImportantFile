@@ -29,14 +29,13 @@ typedef vector<int> vi;
         cout << value << " "; \
     cout << endl;
 
-void solve()
+void Hack()
 {
-    // write your code here
+    // Start Hacking
 }
 
 int main()
 {
-    solve();
-
+    Hack();
     Hacked;
 }
