@@ -43,7 +43,7 @@
             "",
             "int main()",
             "{",
-            "    solve();$2",
+            "    Hack();$2",
             "    Hacked;",
             "}"
         ],
@@ -77,7 +77,7 @@
             "cin >> t;",
             "while (t--)",
             "{",
-            "    solve();$0",
+            "    Hack();$0",
             "}"
         ],
         "description": "Test Case"
