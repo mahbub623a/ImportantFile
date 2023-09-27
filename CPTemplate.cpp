@@ -12,6 +12,7 @@ typedef vector<int> vi;
 #define No printf("No\n")
 #define YES printf("YES\n")
 #define NO printf("NO\n")
+#define Hacked return 0
 
 #define scan(x, s)              \
     for (int i = 0; i < s; i++) \
@@ -37,5 +38,5 @@ int main()
 {
     solve();
 
-    return 0;
+    Hacked;
 }
