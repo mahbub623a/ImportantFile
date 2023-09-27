@@ -31,7 +31,7 @@ typedef vector<int> vi;
 
 void Hack()
 {
-    // Start Hacking
+    // Start Hacking...
 }
 
 int main()
