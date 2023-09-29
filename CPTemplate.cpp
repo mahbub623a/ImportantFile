@@ -17,16 +17,10 @@ typedef vector<int> vi;
 #define scan(x, s)              \
     for (int i = 0; i < s; i++) \
         cin >> x[i];
-#define scanV(x, s)             \
-    for (int i = 0; i < s; i++) \
-    {                           \
-        int temp;               \
-        cin >> temp;            \
-        x.push_back(temp);      \
-    }
-#define print(x)              \
-    for (auto value : x)      \
-        cout << value << " "; \
+#define print(x)             \
+    for (auto value : x)     \
+        cout                 \
+            << value << " "; \
     cout << endl;
 
 void Hack()
