@@ -13,6 +13,7 @@ typedef long long ll;
 #define YES printf("YES\n")
 #define NO printf("NO\n")
 #define one printf("1\n")
+#define _one printf("-1\n")
 #define zero printf("0\n")
 #define Hacked return 0
 #define loop(i, s, n) for (int i = s; i < n; i++)
