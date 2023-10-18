@@ -6,6 +6,7 @@
 using namespace std;
 
 typedef long long ll;
+typedef unsigned long long ull;
 
 #define nl cout << endl
 #define Yes printf("Yes\n")
