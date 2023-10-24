@@ -32,7 +32,7 @@ typedef unsigned long long ull;
     cout << endl;
 
 // const int h = 1e9 + 10;
-// int hsh[h];
+// int Hash[h];
 
 void Hack()
 {
