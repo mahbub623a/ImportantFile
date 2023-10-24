@@ -31,8 +31,8 @@ typedef unsigned long long ull;
             << value << " "; \
     cout << endl;
 
-const int h = 1e6 + 10;
-int hsh[h];
+// const int h = 1e9 + 10;
+// int hsh[h];
 
 void Hack()
 {
