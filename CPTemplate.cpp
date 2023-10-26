@@ -16,9 +16,12 @@ typedef unsigned long long ull;
 #define one printf("1\n")
 #define _one printf("-1\n")
 #define zero printf("0\n")
-#define Hacked return 0
+#define True printf("true\n")
+#define False printf("false\n")
+
 #define loop(i, s, n) for (int i = s; i < n; i++)
 #define rloop(i, n, s) for (int i = n - 1; i >= s; i--)
+#define Hacked return 0
 #define sortV(v) sort(v.begin(), v.end())
 #define sortR(v) sort(v.rbegin(), v.rend())
 
