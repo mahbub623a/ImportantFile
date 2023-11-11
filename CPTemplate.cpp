@@ -21,6 +21,8 @@ typedef unsigned long long ull;
 
 #define loop(i, s, n) for (int i = s; i < n; i++)
 #define rloop(i, n, s) for (int i = n - 1; i >= s; i--)
+#define search(v, m) *(m(v.begin(), v.end()))
+#define convert(s, t) transform(s.begin(), s.end(), s.begin(), ::t)
 #define Hacked return 0
 #define sortV(v) sort(v.begin(), v.end())
 #define sortR(v) sort(v.rbegin(), v.rend())
