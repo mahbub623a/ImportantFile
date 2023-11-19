@@ -31,7 +31,7 @@ typedef unsigned long long ull;
     for (int i = 0; i < s; i++) \
         cin >> x[i];
 #define print(x)            \
-    for (auto col : x)      \
+    for (auto &col : x)     \
         cout << col << " "; \
     cout << endl;
 
@@ -43,10 +43,10 @@ typedef unsigned long long ull;
             cin >> x[i][j];          \
         }                            \
     }
-#define Print(x)       \
-    for (auto row : x) \
-    {                  \
-        print(row);    \
+#define Print(x)        \
+    for (auto &row : x) \
+    {                   \
+        print(row);     \
     }
 
 // const int h = 1e9 + 10;
@@ -54,7 +54,6 @@ typedef unsigned long long ull;
 
 void Hack()
 {
-    
 }
 
 int main()
